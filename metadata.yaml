@@ -16,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/578
     wikipedia: http://en.wikipedia.org/wiki/H._L._Mencken
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43376#The-American-Language--13-A-Preliminary-Inquiry-into-the-Development-of-English-in-the-United_
 gutenberg_issued: '2013-08-01'
 gutenberg_type: Text
 identifiers:
